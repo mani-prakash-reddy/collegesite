@@ -87,6 +87,7 @@ color: black;
 	border-radius: 5px;
 	margin-bottom: 10px;
 	font-size: larger;
+	color: rgba(0, 0, 0, 0.1);
 }
 .admission-form button {
 	background-color: #c9373e;
